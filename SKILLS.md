@@ -1,6 +1,12 @@
 ---
 name: minions-audio-tests
-description: Voice interaction configs, TTS/STT pipeline settings, and audio samples
+id: OC-0107
+version: 1.0.0
+description: "Voice interaction configs, TTS/STT pipeline settings, and audio samples"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-audio-tests — Agent Skills
