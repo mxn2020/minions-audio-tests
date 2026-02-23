@@ -1,6 +1,6 @@
 {
   "name": "@minions-audio-tests/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Voice interaction configs, TTS/STT pipeline settings, and audio samples",
   "type": "module",
   "main": "./dist/index.js",

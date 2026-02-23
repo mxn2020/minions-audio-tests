@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-audio-tests"
-version = "0.1.0"
+version = "0.2.0"
 description = "Voice interaction configs, TTS/STT pipeline settings, and audio samples"
 readme = "README.md"
 license = { text = "MIT" }
