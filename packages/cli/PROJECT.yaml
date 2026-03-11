@@ -6,3 +6,4 @@ description: "CLI for minions-audio-tests — Voice interaction configs, TTS/STT
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
