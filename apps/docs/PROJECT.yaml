@@ -1,0 +1,8 @@
+name: "@minions-audio-tests/docs"
+project_scope: child
+child_type: docs
+parent_project: minions-audio-tests-workspace
+description: "Standard compliance definition for @minions-audio-tests/docs"
+priority: high
+deploy_url: null
+tags: null

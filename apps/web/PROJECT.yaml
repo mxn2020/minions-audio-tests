@@ -1,0 +1,8 @@
+name: "@minions-audio-tests/web"
+project_scope: child
+child_type: web-app
+parent_project: minions-audio-tests-workspace
+description: "Standard compliance definition for @minions-audio-tests/web"
+priority: high
+deploy_url: null
+tags: null

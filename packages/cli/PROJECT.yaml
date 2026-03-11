@@ -1,0 +1,8 @@
+name: "@minions-audio-tests/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-audio-tests-workspace
+description: "CLI for minions-audio-tests — Voice interaction configs, TTS/STT pipeline settings, and audio samples"
+priority: high
+deploy_url: null
+tags: null

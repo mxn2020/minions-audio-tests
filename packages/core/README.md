@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/@minions-audio-tests/sdk/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # @minions-audio-tests/sdk
 
 Voice interaction configs, TTS/STT pipeline settings, and audio samples
