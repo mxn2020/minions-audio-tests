@@ -1,0 +1,16 @@
+name: minions-audio-tests-workspace
+project_scope: main
+project_type: monorepo
+description: Voice interaction configs, TTS/STT pipeline settings, and audio samples
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-audio-tests"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-audio-tests-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox
