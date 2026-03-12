@@ -1,6 +1,6 @@
 {
   "name": "@minions-audio-tests/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-audio-tests — Voice interaction configs, TTS/STT pipeline settings, and audio samples",
   "license": "MIT",
   "repository": {
